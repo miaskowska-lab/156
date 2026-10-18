@@ -1,0 +1,153 @@
+aid	course	title	due	group	sub_id	resources
+600089	EA50	Problem Solving Part 1	2023-09-20	0	332782	4332325:pdf
+610401	GL91	Foundation Week Sessions Attended & Pre-Work Submitted	2023-09-24	0	332793	4332337:pdf
+599885	FA50	LBA: Logical Thinking	2023-10-04	0	341265	4400472:sle
+599926	MC50	Writing Journal	2023-10-13	0	345051	4430413:pdf
+600100	EA50	Problem Solving Part 2	2023-10-15	0	345761	4442558:pdf
+657052	GL91	Ethnographic Assignment	2023-10-18	0	348220	4456832:pdf
+652636	FE50	Preliminary Project Plan	2023-10-22	1	350027	4473147:pdf
+600173	CX50	Complex Systems Analysis Case Study	2023-10-25	0	353129	4502441:pdf
+599896	FA50	Describing Data	2023-11-03	0	357439	4534562:sle
+600119	EA50	Scientific Proposal Part 1	2023-11-10	0	361881	4563594:pdf
+599937	MC50	Thesis-driven Essay	2023-11-12	0	365084	4579690:pdf
+600184	CX50	'Irrational' Behavior Research Paper	2023-11-15	1	364165	4576419:pdf
+652831	FE50	Secondary Project Plan	2023-11-17	1	365509	4582694:pdf
+599959	MC50	LBA: My Utopia/Dystopia	2023-12-01	0	371961	4624603:pdf
+600117	EA50	Scientific Proposal Part 2	2023-12-03	1	371379	4623425:pdf
+599948	MC50	Writing Journal	2023-12-04	0	372133	4624880:pdf
+600162	CX50	LBA: Social Change in Practice	2023-12-08	0	374214	4633514:pdf
+599907	FA50	Statistical Inference	2023-12-10	0	376310	4636270:pdf;4636272:file
+623440	GL91	Engagement Across Semester	2023-12-10	0	375069	4634511:pdf
+652795	FE50	[Group] Fall Final Project Proposal	2023-12-15	1	377142	4637314:pdf
+652841	FE50	[Individual] HC Explanations	2023-12-15	0	377076	4637197:pdf
+652858	FE50	[Individual] Teamwork Survey	2023-12-15	0	376319	4636277:sle
+989529	GL92	Elevation Reflection & Engagement	2024-01-06	0	380293	4673873:pdf
+986082	FA51	Correlation and Regression	2024-01-28	0	393137	4781193:pdf;4781194:file
+1038206	HSR01	Post-Workshop Reflection	2024-01-29	0	392140	4771796:sle
+1041537	EA51	Biases	2024-02-02	0	393260	4781365:pdf
+1016374	FE51	Spring Updated Project Plan	2024-02-04	1	394006	4789052:pdf
+989161	CX51	LBA: Ethical Controversies and Conversations	2024-02-07	0	396055	4802878:pdf
+992526	MC51	Writing Journal	2024-02-09	0	397370	4812203:pdf
+1080213	GL92	Ethnographic Assignment	2024-02-18	0	401029	4843734:pdf
+986108	FA51	Optimization Algorithms LBA	2024-02-23	0	404448	4863495:sle
+1046414	PR51	S^4 5: Variable Scopes, Mutability, and File Systems	2024-02-24	0	405256	4870607:sle
+1016522	FE51	Mid-Semester Teamwork Survey	2024-02-25	0	405278	4870830:sle
+992542	MC51	Interpretation with #medium + #context	2024-02-28	0	413955	4923079:pdf
+986120	FA51	Modeling and Simulation	2024-03-06	0	414238	4930562:sle
+1046421	PR51	S^4 7: Refactoring, Variable Names, and Networks	2024-03-09	0	414240	4930564:sle
+1041546	EA51	Research Design	2024-03-10	0	418303	4957723:pdf
+1016719	FE51	Prototype	2024-03-15	1	414232	4930556:pdf
+992646	CX51	Negotiation Strategic Plan^^	2024-03-27	1	421526	4973856:pdf
+992555	MC51	LBA: Multimodal Persuasion	2024-04-05	0	427637	5007811:pdf
+1046428	PR51	S^4 10: Revision and the Future	2024-04-06	0	427051	5005003:sle
+1041555	EA51	^^Survey Assignment	2024-04-07	1	427556	5007725:pdf
+1164185	GL92	Virtual Scrapbook	2024-04-08	0	427543	5007713:pdf
+992562	MC51	Writing Journal	2024-04-10	0	429035	5013547:pdf
+992652	CX51	Self Reflection: Purpose and Leadership	2024-04-12	0	432331	5022528:pdf
+986133	FA51	Decision Making	2024-04-14	1	431487	5021190:pdf
+1178073	GL92	Engagement Across Semester	2024-04-17	0	432437	5022775:pdf
+1016531	FE51	End of Semester Teamwork Survey	2024-04-20	0	433816	5024620:sle
+1016450	FE51	Final Deliverable + HC Explanations + Process Description	2024-04-20	1	433788	5024590:pdf
+1016521	FE51	Symposium Presentation	2024-04-20	0	434022	5024865:pdf
+1954197	GL93	Elevation Reflection & Engagement	2024-09-10	0	440097	5093747:pdf
+1972396	CS111	Skill Builder Week 1: Limits	2024-09-15	0	442110	5111256:pdf
+1972402	CS111	Skill Builder Week 2: Continuity and the Definition of a Derivative	2024-09-22	0	445262	5138936:pdf
+1972408	CS111	Skill Builder Week 3: Finding Derivatives	2024-09-29	0	449272	5165139:pdf
+1955077	B110	Experimental Design Paper	2024-10-04	0	452375	5186167:pdf
+1972414	CS111	Skill Builder Week 4: Related Rates and Optimization	2024-10-06	0	453049	5192410:pdf
+1972390	CS111	Deep Dive: Limits, Continuity, and Single Variable Differentiation	2024-10-10	0	456525	5212445:pdf
+1972420	CS111	Skill Builder Weeks 5&6: Multivariable Differentiation and Optimization	2024-10-20	0	460983	5238453:pdf
+1966684	B111	Assignment 1 - Procter&Gamble Financial Analysis	2024-10-26	0	464801	5261979:sle
+1972426	CS111	Skill Builder Week 7: Vectors and Gradients	2024-10-27	0	463376	5254729:pdf
+2047572	GL93	Ethnographic Assignment	2024-10-31	0	463433	5255204:pdf
+1972432	CS111	Skill Builder Week 8: Lagrange Multipliers	2024-11-03	0	467976	5280371:pdf
+1955081	B110	TiVo Segmentation Exercise	2024-11-04	0	471395	5294433:pdf
+1972438	CS111	Skill Builder Week 9: Single Variable Integration	2024-11-10	0	472934	5299862:pdf
+2130709	CS111	Deep Dive LBA: Optimization for decision-making	2024-11-14	1	475045	5308175:pdf
+1972444	CS111	Skill Builder Week 10 Finding Integrals & Improper Integration	2024-11-17	0	475992	5315780:pdf
+1966756	B111	Assignment 2 - Valuation of a Public Company	2024-11-23	0	479620	5327435:sle
+2110783	GL93	Virtual Scrapbook	2024-12-05	0	480298	5331168:pdf
+1955085	B110	Snapple Write-up	2024-12-06	0	483965	5345811:pdf
+2199494	CS111	Technical Interview and Self-Reflection	2024-12-06	0	480832	5333691:pdf
+2199361	CS111	Skill Builder Week 11 Double Integration	2024-12-08	0	485568	5352078:pdf
+2225862	CS111	Deep Dive: Integration and Its Applications	2024-12-13	0	487997	5360037:pdf
+1966760	B111	Assignment 3 - Location Based Assignment	2024-12-14	0	488844	5361112:pdf
+2110936	GL93	Engagement Across Semester	2024-12-14	0	486724	5356979:pdf
+1955089	B110	LBA / Final Project	2024-12-18	1	489440	5362051:pdf
+1966764	B111	Assignment 4 - Mergers&Acquisitions ^^	2024-12-20	1	490566	5363714:pdf
+2472144	GL94	Elevation Reflection & Engagement	2025-01-11	0	493187	5397154:pdf
+2478937	B112	Global Connectivity	2025-02-09	0	504944	5484797:pdf
+2479166	CS110	Problem Set - Algorithmic Strategies	2025-02-11	0	506835	5494511:pdf;5494513:file
+2478779	B113	Haier RenDanHeyi	2025-02-14	0	507798	5499616:pdf
+2479773	GL94	Ethnographic Assignment	2025-02-23	0	501634	5462350:pdf
+2479253	B112	Haier Europe	2025-03-09	0	517732	5557459:pdf
+2479266	B113	Cost-Centric Control	2025-03-11	0	521648	5580064:pdf
+2478915	CS110	Project 1 - Designing a Scheduler [A day in the life of a Minervan Part I]	2025-03-18	0	524953	5597156:pdf;5597157:file
+2479274	B113	Customer Centricity (LBA)	2025-04-02	0	527683	5610187:pdf
+2479257	B112	Country Environment Report	2025-04-04	0	529338	5617634:pdf
+2478918	CS110	Pseudo Project 2 - Choose your Final Computational Application	2025-04-08	0	527725	5610245:sle
+2480327	GL94	Virtual Scrapbook & End of Semester Reflection	2025-04-10	0	518939	5564308:pdf
+2480924	GL94	Engagement Across Semester	2025-04-19	0	525905	5600670:pdf
+2479270	B113	New Organization Structures	2025-04-20	1	534473	5639059:pdf
+2479249	B112	LBA	2025-04-22	1	536877	5644705:pdf
+2478921	CS110	Project 2 - Final Computational Application	2025-04-23	0	537732	5646007:pdf;5646008:file
+2483600	GL95	Elevation Reflection & Engagement	2025-09-11	0	542611	5713471:pdf
+2482555	CS162	Project design	2025-09-17	0	548104	5754944:pdf
+2483063	CP191	Reflection on Capstone	2025-09-27	0	553006	5790677:pdf
+2483037	CS114	Problem set 1	2025-10-02	0	555774	5809208:pdf;5809242:file
+2483041	CS114	Problem set 1 reflection	2025-10-16	0	561182	5852889:url
+2482563	CS162	Project check-in 1	2025-10-17	0	560381	5846426:pdf
+2482975	B145	Optiguard Series A Term Sheet	2025-10-24	0	565062	5879507:pdf
+2484320	GL95	Ethnographic Assignment	2025-10-30	0	565065	5879511:pdf
+2482557	CS162	Web application	2025-10-31	0	569514	5907941:file
+2483044	CS114	Problem set 2	2025-11-06	0	572313	5929454:pdf;5929455:file
+2482955	CS162	Project check-in 2	2025-11-14	0	575344	5945989:pdf
+2483073	CP191	Reflection on Process	2025-11-15	0	577180	5955581:pdf
+2482977	B145	LBA	2025-11-19	0	578697	5964374:pdf
+2483046	CS114	Problem set 2 reflection	2025-11-20	0	578553	5962996:url
+2482957	CS162	Project check-in 3	2025-11-28	0	579517	5973327:pdf
+2483039	CS114	LBA	2025-12-04	0	582644	5995250:pdf
+2484338	GL95	Virtual Scrapbook	2025-12-04	0	582671	5995345:pdf
+2484363	GL95	Engagement Across Semester	2025-12-12	0	582699	5995659:pdf
+2482559	CS162	Final project	2025-12-15	0	585669	6004265:pdf
+2482561	CS162	Location-based assignment	2025-12-15	0	585601	6004103:pdf
+2482973	B145	Startup Assignment	2025-12-18	0	586910	6006438:pdf
+2483085	CP191	Process Documentation	2025-12-18	0	586026	6004868:pdf
+2483048	CS114	Problem set 4: Technical Interview	2025-12-18	0	582719	5995711:pdf
+2482953	CS162	Tech interview	2025-12-18	0	583976	5999207:pdf
+2487067	GL96	Elevation Reflection & Engagement	2026-01-09	0	589076	6030790:pdf
+2486451	CS113	Skill Builder 1.1: Linear Systems	2026-01-19	0	592711	6059147:pdf
+2486457	CS113	Skill Builder 1.2: Vectors and Matrices	2026-01-26	0	595861	6078658:pdf
+2488087	CP192	Reflection on Track Options	2026-01-30	0	597621	6088354:pdf
+2486460	CS113	Skill Builder 1.3: Analyzing Matrices	2026-02-02	0	599425	6097575:pdf
+2486454	CS113	Deep Dive: Systems of Linear Equations	2026-02-06	0	602297	6111031:pdf
+2487084	GL96	Ethnographic Assignment	2026-02-08	0	603645	6116412:pdf
+2486463	CS113	Skill Builder 2.4: Vector Spaces	2026-02-09	0	604223	6118563:pdf
+2487373	B165	Toyota Case	2026-02-10	0	604381	6119224:pdf
+2486941	B155	Science Technology Co. -- 1985	2026-02-13	0	604885	6121547:pdf
+2486466	CS113	Skill Builder 2.5 Bases I	2026-02-23	0	608486	6142504:pdf
+2488454	CP192	Matching Survey	2026-02-27	0	610370	6153276:pdf
+2486469	CS113	Skill Builder 2.7: Bases II	2026-03-02	0	612517	6163357:pdf
+2486475	CS113	Skill Builder 2.8: Fundamental Subspaces I	2026-03-09	0	615226	6179297:pdf
+2487792	B165	LBA	2026-03-10	0	617197	6188579:pdf
+2486940	B155	LBA	2026-03-12	0	617913	6194465:pdf
+2486472	CS113	Deep Dive: Vector Space Structure	2026-03-13	0	618489	6196477:pdf
+2486478	CS113	Skill Builder 3.9 Linear Transformations	2026-03-16	0	619228	6199131:pdf
+2486939	B155	Astral Records LTD., North America: Some Financial Concerns Case	2026-04-02	0	624346	6231282:pdf
+2486481	CS113	Skill Builder 3.10: Fundamental Subspaces II	2026-04-06	0	622718	6219912:pdf
+2487794	B165	Technical interview	2026-04-07	0	622759	6220047:pdf
+2487093	GL96	Virtual Scrapbook & End of Semester Reflection	2026-04-07	0	622257	6217466:pdf
+2486484	CS113	Skill Builder 3.12: Eigenstuff	2026-04-13	0	628517	6255299:pdf
+2486490	CS113	Technical Interview and Self-Reflection	2026-04-17	0	624542	6235587:pdf
+2487102	GL96	Engagement Across Semester	2026-04-17	0	628523	6255307:pdf
+2488468	CP192	Mini Capstone	2026-04-18	0	628554	6256109:pdf
+2487759	B155	Growth Company Valuation^^	2026-04-21	1	630509	6263301:pdf
+2487796	B165	The WM Wrigley Jr Company: Capital Structure, Valuation, and Cost of Capital	2026-04-23	1	630512	6263304:pdf
+2486487	CS113	Deep Dive (LBA): Foot Traffic Modeling	2026-04-23	1	628528	6255311:pdf
+2490475	B199	Strategic Plan	2026-06-25	0	634783	6276073:pdf
+2490476	B199	Performance Brief	2026-07-23	0	635390	6280720:pdf
+2490478	B199	Action Interview	2026-08-20	0	636395	6285519:pdf
+2490477	B199	Summer Reflection	2026-08-20	0	636359	6285158:pdf;6285159:pdf
+2491676	GL97	Elevation Reflection & Engagement	2026-09-06	0	638557	6320615:pdf
+2490675	CS156	Repository and Summary	2026-09-11	0	640683	6332814:pdf
+2491894	CP193.001	Project Brief	2026-09-26	0	647813	6395146:pdf

@@ -1,0 +1,7 @@
+data/raw/
+data/redact_names.txt
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
+.venv/
